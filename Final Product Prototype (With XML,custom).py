@@ -9,7 +9,7 @@ Title, icon,geometry (resolution)
 """""
 root= CTk()
 root.title('Drag and drop')
-root.iconbitmap('Customtkinter\\favicon.ico')
+root.iconbitmap('favicon.ico')
 root.geometry("1920x1080")
 #root.pack_propagate(0)
 """"
